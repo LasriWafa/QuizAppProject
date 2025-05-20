@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="nom_d_utilisateur">Nom d\'utilisateur :</string>
+    <string name="mot_de_passe">Mot de passe :</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="pas_encore_inscrit_cr_er_un_compte">Pas encore inscrit ? Créer un compte</string>
+    <string name="connexion">QUIZ</string>
+    <string name="computer">Computer</string>
+    <string name="sports">Sports</string>
+    <string name="inventions">Inventions</string>
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="science">Science</string>
+    <string name="history">History</string>
+    <string name="quiz">Quiz</string>
+    <string name="play">PLAY</string>
+    <string name="questions">Questions</string>
+    <string name="app_name">Quiz de Culture Générale</string>
+    <string name="page_de_connexion">Page de connexion</string>
+    <string name="sinscrire">sinscrire</string>
+    <string name="inscription">inscription</string>
+    <string name="email">email</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="profile">Profil</string>
+    <string name="start_quiz">Start Quiz</string>
+
+
+</resources>
