@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCuUOeCQFxStxHog10UzZF_Gp4hYWKn7ts" />
+            android:value="Include_Your_Own_Google_Maps_API_Key" />
 
         <!-- SplashActivity (écran de démarrage) -->
         <activity
