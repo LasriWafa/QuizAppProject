@@ -128,5 +128,5 @@ Run tests using:
 
 ## Contact
 
-ouafae.lasri@gmail.com
-elhazzatkaoutar@gmail.com
+- ouafae.lasri@gmail.com
+- elhazzatkaoutar@gmail.com
